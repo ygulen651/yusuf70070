@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Yusuf👋! </h1>
+<h1 align="center"> Hi, I'm Yusuf 👋 </h1>
 <p align="center">
   <i>A passionate web developer with a background in web design, coding, and automation.</i><br/>
   🎓 Web Design & Coding graduate from <b>Ahi Evran University</b>
@@ -32,19 +32,10 @@
 
 ---
 
-### 🏆 Projects & Experience
+### 📫 Let’s Connect
 
-- 🌍 Developed dynamic websites using **Next.js** and **WordPress**  
-- 🔗 Built automation workflows with **n8n**  
-- 🛠️ Created full-stack applications integrating frontend & backend  
-- 📊 Worked on API integrations, automation, and data processing  
-
----
-
-### 📫 Let's Connect
-
-- 📩 Email: [yourmail@example.com](mailto:yourmail@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📩 Email: [ygulen651@gmail.com](mailto:ygulen651@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BClen-01455b1a9/)  
 
 ---
 
