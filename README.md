@@ -1,78 +1,66 @@
-<h1 align="center"> Hi, I'm yusuf👋! </h1>
+<h1 align="center"> Hi, I'm Yusuf👋! </h1>
 <p align="center">
-  <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
-  🎓 Computer Education & Instructional Technologies graduate from <b>METU</b> (GPA: 3.56)
+  <i>A passionate web developer with a background in web design, coding, and automation.</i><br/>
+  🎓 Web Design & Coding graduate from <b>Ahi Evran University</b>
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 🎓 Graduated with honors from METU with a GPA of 3.56  
-- 🤖 Winner of the **ITURO 2023** Robotics Competition - Traffic Tracking Robot  
-- 💡 Hands-on experience in R&D projects with Aselsan & Huawei  
-- 🌍 Participant of international hackathons and trainings like Microsoft Women in AI, IBM AI for Everyone, and more  
-- 🔬 Currently working on ROS, simulation, and reinforcement learning in robotics  
+- 🎓 Graduated from Ahi Evran University in Web Design & Coding  
+- 💡 Experienced in building full-stack applications and automation systems  
+- ⚙️ Interested in workflow automation with **n8n**  
+- 🌐 Skilled in modern web frameworks like **Next.js** and CMS platforms like **WordPress**  
+- 🚀 Always learning new tools in web technologies and backend systems  
 
 ---
-
 
 ### ⚙️ Tech Stack
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### ⚙️ Tools & Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E31225?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ED5A73?style=flat&logo=n8n&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 🏆 Awards & Projects
+### 🏆 Projects & Experience
 
-- 🥇 **ITURO 2023** – 1st place in Traffic Robot Category  
-- 🥇 **BRO-CUP / KELEBEKRO** – Multiple awards in sumo & maze-solving competitions  
-- 🌐 **Microsoft Women in AI Hackathon (2024)** – AI-based travel planner using Azure  
-- 📰 **Anadolu Agency Hackathon (2024)** – AI-powered news generation platform  
-- 📱 **Huawei R&D Coding Marathon (2023)** – Mobile app recommending DIY videos based on photo input  
-- 🔍 **Akbank AI Academy** – Drought prediction using AI & Azure  
+- 🌍 Developed dynamic websites using **Next.js** and **WordPress**  
+- 🔗 Built automation workflows with **n8n**  
+- 🛠️ Created full-stack applications integrating frontend & backend  
+- 📊 Worked on API integrations, automation, and data processing  
 
 ---
 
 ### 📫 Let's Connect
 
-- 📩 Email: [berfins.4615@gmail.com](mailto:berfins.4615@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/berfin-s%C3%BCnnetcio%C4%9Flu-4ab9681b3/)  
+- 📩 Email: [yourmail@example.com](mailto:yourmail@example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Berfin4615&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourGithubUser&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berfin4615&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berfin4615&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGithubUser&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUser&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
 
-### 📊 LeetCode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/user4150sX?theme=dark&font=Ubuntu&ext=heatmap)
-
----
-
-<p align="center">🚀 Always building, always learning!</p>
+<p align="center">🚀 Always coding, always learning!</p>
