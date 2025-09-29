@@ -39,19 +39,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGithubUser&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGithubUser&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUser&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-<p align="center">🚀 Always coding, always learning!</p>
